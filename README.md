@@ -3,3 +3,6 @@ I wrote a script to scrape data from a website called Fatabyyano. Using some hea
 For each article, it dives into the content, extracting text from specific sections like blockquotes and divs. It also collects any source links mentioned in the articles.
 
 Finally, it dumps all this data into a CSV file named "1-Fatabayano.csv", neatly organized into columns. That's about it. Clean and simple.
+
+
+```the code is in the test.py```
